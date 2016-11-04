@@ -1,2 +1,2 @@
 # urpms-tools
-tools for build 'rpms' in the infrastructure unitedrpms
+Tools for the UnitedRPMS infrastructure
